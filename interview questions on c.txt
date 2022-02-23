@@ -1,0 +1,45 @@
+
+What are the basic Datatypes supported in C Programming Language?
+What do you mean by Dangling Pointer Variable in C Programming?
+What do you mean by the Scope of the variable? What is the scope of the variables in C?
+What are static variables and functions?
+Differentiate between calloc() and malloc()
+What are the valid places where the programmer can apply Break Control Statement?
+How can we store a negative integer?
+Differentiate between Actual Parameters and Formal Parameters.
+Can a C program be compiled or executed in the absence of a main()?
+What do you mean by a Nested Structure?
+What is a C Token?
+ What is Preprocessor?
+ Why is C called the Mother of all Languages?
+ Suppose a global variable and local variable have the same name. Is it is possible to access a global variable from a block where local variables are defined?
+ Differentiate between the macros and the functions.
+ What are the limitations of scanf() and how can it be avoided?
+ Which structure is used to link the program and the operating system?
+Explain the # pragma directive.
+ What is typecasting?
+ What are the different storage class specifiers in C?
+Mention File operations in C Language.
+Which variable can be used to access Union data members if the Union variable is declared as a pointer variable?
+What is the difference between declaring a header file with < > and ” “?
+What do you mean by Memory Leak?
+Differentiate between getch() and getche().
+ Differentiate between call by value and call by reference.
+What is a stack?
+What is a sequential access file?
+ What is variable initialization and why is it important?
+What is a nested loop?
+What is the modulus operator?
+What are header files and what are its uses in C programming?
+What is syntax error?
+When is the “void” keyword used in a function?
+What are compound statements?
+What is the significance of an algorithm to C programming?
+What is the advantage of an array over individual variables?
+What is debugging?
+What are preprocessor directives?
+ What are reserved words?
+What are the different file extensions involved when programming in C?
+What are actual arguments?
+What is a newline escape sequence?
+
